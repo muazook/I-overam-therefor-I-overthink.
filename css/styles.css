@@ -1,0 +1,96 @@
+.palette-reference {
+  color: rgb(21, 46, 67);
+  color: rgb(63, 78, 79);
+  color: rgb(162, 123, 92);
+  color: rgb(220, 215, 201);
+}
+
+body {
+  background-color: rgb(44, 54, 57);
+  margin-left: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: rgb(162, 123, 92);
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: rgb(162, 123, 92);
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: rgb(162, 123, 92);
+}
+
+p {
+  color: rgb(220, 215, 201);
+}
+
+.header {
+  color: rgb(162, 123, 92);
+}
+
+.profile {
+  border-radius: 10%;
+  position: absolute;
+  margin: 20px;
+}
+
+.profile-frame {
+  position: relative;
+  margin: 0;
+}
+
+.bragging {
+  height: 200px;
+}
+
+.gfuel {
+  height: 200px;
+}
+
+.top-container {
+  background-color: rgb(63, 78, 79);
+  position: relative;
+  padding-top: 100px;
+  max-width: 75%;
+  margin: auto;
+}
+
+.middle-container {
+  background-color: rgb(21, 46, 67);
+  max-width: 75%;
+  margin: auto;
+}
+
+.bottom-container {
+  background-color: rgb(21, 46, 67);
+  max-width: 75%;
+  margin: auto;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 20%;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 20%;
+  bottom: 300px;
+}
+
+.footer-link, .btn {
+  color: rgb(220, 215, 201);
+}
